@@ -78,7 +78,7 @@ for box, track_id, class_id, mask in zip(bounding_boxes, tracking_ids, detected_
 
 | Fire Detected              | Smoke Detected             |
 |----------------------------|----------------------------|
-| ![Fire](Screenshots/Screenshot 2025-01-15 131358.png)   | ![Smoke](Screenshots/Screenshot 2025-01-15 131334.png) |
+| ![Fire](Screenshots/Screenshot2.png)   | ![Smoke](Screenshots/Screenshot1.png) |
 
 ## Technologies
 
